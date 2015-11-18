@@ -1,0 +1,22 @@
+Jeff Rouder, 11/15
+
+I am trying to reconscruct what was done in the PNAS 2008 working
+memory paper.  It is not well documented.  To the best of my
+knowledge, here are the data files:
+
+The directory LUCK2 has all the raw data files
+lk2cat is the concatination,
+lk2clean is smaller than lk2dat and may have RTs less than 5s removed
+That was a common cleaning step for these data.
+
+My understanding is that we used lk12dat with the RT<5 filter
+throughout.
+
+Let me know.
+
+Best,
+Jeff
+ 
+
+
+

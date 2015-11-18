@@ -1,0 +1,61 @@
+Experiment: wm/luck2/
+Executable: luck2
+
+Make sure the keyboard masks are in the rooms and marked with same/change. Please 
+read these instructions verbatim, so that every subject gets the same instructions.
+
+Briefing:
+
+The experiment you will be involved in today is a memory
+experiment. We want to test how good your memory is for colored
+squares. In each trial of the experiment, you will see a sequance of displays of
+colored squares. It is your task to remember these colored squares.
+
+[draw display with fixation, squares, blank, mask, and cue square]
+
+The first thing you'll see on a trial is a "fixation cross". This
+tells you where to look at the beginning of the trial. Then, you'll
+see a set of 2, 5, or 8 squares.  Your job is to remember these
+squares.  The display will go blank, then multicolored squares will
+appear. Ignore these multicolored squares. The final display on a
+trial is a single square. This square will either be the same color or
+a different color as the square in that location in the first array.
+If the square is the same (press 'z'); if different (press
+'/').
+
+[draw display with fixation, squares, blank, mask, and cue square]
+
+The computer will tell you if you are right or wrong
+with a pair of rising beeps if you are correct, and a low beep if 
+you are wrong.
+
+[demonstrate pie chart]
+
+The experiment is divided into blocks. In each block, there will be a
+different proportion of change and different trials. At the beginning
+of each block, you will see a pie chart which tells you what the
+proportion is, and you'll be reminded before each trial.
+
+At the beginning of the experiment, there will be several practice
+trials so that you can get the hang of the task. During the practice, 
+please ask if you have any questions about the task.
+
+Do you have any questions that I can answer now?
+
+
+Debriefing:
+In the memory experiment you just participated in, you were asked to
+remember arrays of colored squares we are interested in estimating
+memory capacity using this task. For instance, imaging you have a
+fixed capacity in your working memory, which you use to remember the
+squares. The chance that you'll retain the square that changed, if any
+changed, is your capacity divided my the number of squares. We can use
+this fact to estimate capacity. 
+
+We are also interested in how the probability of change manipulation
+affects the estimated capacity. If capacity is truly fixed, it should
+not affect capacity. If the manipulation does affect our estimates of
+capacity, we know that something about our model of memory is not
+correct.
+
+Any questions?

@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="University of Missouri, University of Missouri-Columbia, MU, Mizzou" />
+<title>University of Missouri-Columbia</title>
+<link href="styles.css" rel="stylesheet" type="text/css" media="all" />
+<link href="styles-print.css" rel="stylesheet" type="text/css" media="print" />
+</head>
+<body>
+<div id="container">
+<div id="masthead">
+  <a href="#startContent"><img src="http://www.missouri.edu/images/skipToContent.gif" alt="Skip to Main Page Content" width="1" height="1" /></a>
+  <a href="http://www.missouri.edu/"><img src="http://www.missouri.edu/images/mu-logo.gif" alt="Mizzou, University of Missouri-Columbia" width="180" height="80" id="logo" /></a>
+  <div id="tacticalAudienceContainer">
+    <div id="tacticalNav">
+      <form action="http://www.google.com/u/mizzouweb" method="get">
+        <ul>
+	  <li><a href="http://www.missouri.edu/AZindex/">A-Z Index</a> | </li>
+	  <li><a href="http://calendar.missouri.edu/">Calendar</a> | </li>
+	  <li><a href="http://www.missouri.edu/directories/">Directories</a> | </li>
+	  <li><a href="http://map.missouri.edu/">Map</a> | </li>
+	  <li style="padding-left: 10px;"><label for="searchField"><input name="q" 
+type="text" alt="Search field: enter search terms here" id="searchField" size="15" /></label><input name="submit" type="submit" id="search" value="Search" class="searchButton" alt="Start 
+search" /></li>
+	</ul>
+		</form>
+		</div>
+		<div id="audienceNav"><p><strong>Information for:</strong></p>
+		<ul>
+		<li><a 
+href="http://www.missouri.edu/prospective-students/">Prospective Students</a> | </li>
+		<li>		<a href="http://www.missouri.edu/students/">Current Students</a> | </li>
+		<li>		<a href="http://www.missouri.edu/faculty-staff/">Faculty &amp; Staff</a> | </li>
+		<li>		<a href="http://www.missouri.edu/alumni/">Alumni</a> | </li>
+		<li>		<a href="http://www.missouri.edu/visitors/">Visitors</a></li>
+		</ul>
+		</div>
+	</div>
+</div>
+<!-- IE Mac Bug Fix: All code within primaryNavFeatureContainer must be on one line -->
+<div id="primaryNavFeatureContainer"><div id="primaryNav"><ul>
+		<li><a href="http://www.missouri.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.missouri.edu/academics/">Academics</a></li>
+		<li><a href="http://www.missouri.edu/research/">Research</a></li>
+		<li><a href="http://www.missouri.edu/about/">About Mizzou</a></li>
+		<li><a href="http://www.mutigers.com/">Athletics</a></li>
+		<li><a href="http://www.missouri.edu/services/">Services</a></li>
+		<li><a href="http://formizzou.missouri.edu/">Giving to Mizzou</a></li>
+		<li><a href="http://muextension.missouri.edu/">MU Extension</a></li></ul>
+</div><a href="features/nsf06.php"><img src="http://www.missouri.edu/images/features/nsf06.jpg" alt="Passion and reward: Two MU students earn national fellowships" width="590" height="185" id="featureStory" /></a></div><div id="mainContentContainer"><div id="quickLinks">
+	<ul>
+		<li><a href="academics/schools-colleges.php">Schools and Colleges</a></li>
+        <li><a href="employment.php">Employment Opportunities</a></li>
+        <li><a href="about/administration.php">Administration</a></li>
+        <li><a href="http://registrar.missouri.edu/">University Registrar</a></li>
+        <li><a href="libraries-museums.php">Libraries and Museums</a></li>
+        <li><a href="http://www.muhealth.org/">MU Health Care</a></li>
+        <li><a href="http://www.mubookstore.com/">University Bookstore</a></li>
+	</ul>
+	<div id="weather">
+	  	<h2>Weather at Mizzou</h2><a href="http://cafnr.missouri.edu/weather.php" title="More current conditions at Sanborn Field">74.4&#176;F / 23.6&#176;C</a>	</div>
+    </div>
+	<div id="news">
+		<h2>News &amp; Announcements</h2>
+		<ul><li><a href="http://munews.missouri.edu/NewsBureauSingleNews.cfm?newsid=11922" >Building a Better Online Community</a></li>
+<li><a href="http://munews.missouri.edu/NewsBureauSingleNews.cfm?newsid=11863" >MU Researcher Uses Radio-Like Device to Learn About Health and Disease</a></li>
+<li><a href="http://munews.missouri.edu/NewsBureauSingleNews.cfm?newsid=11842" >Forest Roads Negatively Affect Wildlife, Study Found</a></li>
+			<li><a href="http://munews.missouri.edu/">More news</a> <img src="images/arrow.gif" alt="arrow" width="15" height="11" class="arrowGraphic" /></li>
+		</ul>
+	</div>
+	<div id="events">
+		<h2>Events &amp; Important Dates</h2>
+		<ul>
+			<li><strong>Nov. 10</strong><br />
+		      <a href="http://www.concertseries.org/event-details.php?id=27">Madame Butterfly </a></li>
+			<li><strong>Nov. 12&#8211;17</strong><br />
+				<a href="http://international.missouri.edu/iew/">International Education Week</a></li>
+			<li><a href="http://calendar.missouri.edu/">More events</a> <img src="images/arrow.gif" alt="arrow" width="15" height="11" class="arrowGraphic" /></li>
+		</ul>
+	</div><div class="mizzouImpact"><p><img src="images/mizzouImpact.gif" alt="The Mizzou Impact" /></p><h3>On the Knowledge Economy</h3>
+<p>More than 1,000 faculty life scientists at MU are working to improve human and animal health, food and the environment.</p>
+<p><a href="http://www.missouri.edu/impact/">More about Mizzou's Impact</a></p></div></div>
+<div id="colophon">
+	<div id="tertiaryLinks">
+  <ul>
+    <li><a href="http://www.missouri.edu/contact.php">Contact Us</a> | </li>
+    <li><a href="http://www.missouri.edu/disability-resources.php">Disability Resources</a> | </li>
+    <li><a href="http://mualert.missouri.edu/">Emergency</a></li>
+  </ul>
+</div>
+  <p>Copyright &copy; 2006 &mdash; Curators of the <a href="http://www.umsystem.edu">University of Missouri</a>. All rights reserved. DMCA and <a href="http://www.missouri.edu/copyright.php">other copyright information</a>. <br />
+    An <a href="http://www.missouri.edu/eeo-aa.php">equal opportunity/affirmative action</a> institution.<br />
+Published by the <a href="http://webcom.missouri.edu/">Office of Web Communications</a>, University Affairs Division, Columbia, MO 65211</p>
+	<p><strong>Last Update: <!-- #BeginDate format:Am1 -->November 6, 2006<!-- #EndDate --></strong></p>
+</div>
+</div>
+</body>
+</html>
