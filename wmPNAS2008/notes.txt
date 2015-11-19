@@ -1,18 +1,35 @@
 Jeff Rouder, 11/15
 
-I am trying to reconscruct what was done in the PNAS 2008 working
-memory paper.  It is not well documented.  To the best of my
-knowledge, here are the data files:
+
 
 The directory LUCK2 has all the raw data files
-lk2cat is the concatination,
-lk2clean is smaller than lk2dat and may have RTs less than 5s removed
-That was a common cleaning step for these data.
+lk2cat is the concatination and contains all trials (12420)
+lk2dat.csv contains all trials (12420)
 
-My understanding is that we used lk12dat with the RT<5 filter
-throughout.
+lk2clean.csv has the following discards:
+a. all trials with RT>5 sec 
+b. all trials with responses other than the two indicated keys for "change" and "same" (e.g., they hit a space key by mistake).
 
-Let me know.
+Here is some R code to compare the files:
+
+
+intext=getURL("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/wmPNAS2008/lk2data.csv")
+data=read.csv(text=intext)
+dim(data)
+
+intext=getURL("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/wmPNAS2008/lk2clean.csv")
+clean=read.csv(text=intext)
+dim(clean)
+
+
+data=data[data$resp!=-1,]
+data=data[data$RT<5,]
+dim(data)
+
+
+
+
+Any troubles?  Let me know.
 
 Best,
 Jeff
