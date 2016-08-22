@@ -32,8 +32,8 @@ filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0
 flanker <- read.csv2(filename, header=TRUE, dec=".")
 
 flanker$cond <- as.numeric(flanker$congruency)  #congruent -> 1, incongruent -> 2, neutral -> 3
-ntrial <- length(flanker[flanker$id == flanker$id[1], 1])
-nsub <- length(unique(flanker$id))
+ntrial <- length(flanker[flanker$ID == flanker$ID[1], 1])
+nsub <- length(unique(flanker$ID))
 flanker$trial <- rep(1:ntrial, nsub)
 flanker$rt <- flanker$RT/1000
 
