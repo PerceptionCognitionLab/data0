@@ -20,7 +20,7 @@ colnames(dat) <- clnames
 #clean rt data as proposed in Pratte et al., 2010
 dat <- dat[dat$rt > .2 & dat$rt < 2, ] #Delete very slow and very fast responses
 dat <- subset(dat, acc == 1 & cond != 2 & exp == 1) #accurate data, deleting neutral condition, only stroop task data
-dat <- dat[!(dat$trial %in% 1:5), ] #Delete first 5 trials in each block
+dat <- dat[!(dat$trial %in% 0:4), ] #Delete first 5 trials in each block
 
 dat.stroop.p1 <- dat
 
@@ -46,7 +46,7 @@ colnames(dat) <- clnames
 #only congruent & incongruent condition and only stroop data
 dat <- dat[dat$rt > .2 & dat$rt < 2, ]
 dat <- subset(dat, acc == 1 & blktype == 1) #Only accurate data, only data from Stroop task
-dat <- dat[!(dat$trial %in% 1:5), ]
+dat <- dat[!(dat$trial %in% 0:4), ]
 
 dat.stroop.p2 <- dat
 
@@ -72,7 +72,7 @@ colnames(dat) <- clnames
 #only congruent & incongruent condition and only stroop data
 dat <- dat[dat$rt > .2 & dat$rt < 2, ]
 dat <- subset(dat, acc == 1 & exp == 0) #accurate data, only simon task data
-dat <- dat[!(dat$trial %in% 1:5), ]
+dat <- dat[!(dat$trial %in% 0:4), ]
 
 dat.simon.p1 <- dat
 
@@ -97,7 +97,7 @@ colnames(dat) <- clnames
 #only congruent & incongruent condition and only stroop data
 dat <- dat[dat$rt > .2 & dat$rt < 2, ]
 dat <- subset(dat, acc == 1 & blktype == 0) #accurate data, only simon task data
-dat <- dat[!(dat$trial %in% 1:5), ]
+dat <- dat[!(dat$trial %in% 0:4), ]
 
 dat.simon.p2 <- dat
 
