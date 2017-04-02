@@ -1,0 +1,8 @@
+LICENSE:
+
+These data have were collected by Klaus Oberauer and are unpublished.  As such, I release them for public use without
+restriction with the approval of Klaus Oberauer.
+
+Julia Haaf, 12/12/15
+
+
