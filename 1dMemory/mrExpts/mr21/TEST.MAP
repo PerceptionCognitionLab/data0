@@ -1,0 +1,345 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 02ACCH 02ACDH _TEXT              CODE
+ 02ACDH 03122H 00656H TEST_TEXT          CODE
+ 03130H 058A6H 02777H EMU_PROG           CODE
+ 058B0H 05E77H 005C8H E87_PROG           CODE
+ 05E80H 05E80H 00000H _FARDATA           FAR_DATA
+ 05E80H 05E80H 00000H _FARBSS            FAR_BSS
+ 05E80H 05E80H 00000H _OVERLAY_          OVRINFO
+ 05E80H 05E80H 00000H _1STUB_            STUBSEG
+ 05E80H 0655FH 006E0H _DATA              DATA
+ 06560H 06563H 00004H _CVTSEG            DATA
+ 06564H 0656FH 0000CH _SCNSEG            DATA
+ 06570H 06570H 00000H _CONST             CONST
+ 06570H 0657BH 0000CH _INIT_             INITDATA
+ 0657CH 0657CH 00000H _INITEND_          INITDATA
+ 0657CH 06581H 00006H _EXIT_             EXITDATA
+ 06582H 06582H 00000H _EXITEND_          EXITDATA
+ 06582H 06607H 00086H _BSS               BSS
+ 06608H 06608H 00000H _BSSEND            BSSEND
+ 06610H 0671FH 00110H _STACK             STACK
+
+  Address         Publics by Name
+
+ 05E8:0000       DATASEG@
+ 0000:0260       DGROUP@
+ 0313:2152       e086_Entry
+ 0313:26E0       e086_Shortcut
+ 058B:0306       e087_Entry
+ 058B:03C6       e087_Shortcut
+ 058B:0430       e087_Trap
+ 0000:FE32  Abs  FIARQQ
+ 0000:0E32  Abs  FICRQQ
+ 0000:5C32  Abs  FIDRQQ
+ 0000:1632  Abs  FIERQQ
+ 0000:0632  Abs  FISRQQ
+ 0000:A23D  Abs  FIWRQQ
+ 0000:4000  Abs  FJARQQ
+ 0000:C000  Abs  FJCRQQ
+ 0000:8000  Abs  FJSRQQ
+ 0000:130E       FTOL@
+ 0000:130E       F_FTOL@
+ 0000:13FD       F_LXLSH@
+ 0000:141E       F_PADD@
+ 0000:144D       F_PSUB@
+ 0000:13FD       LXLSH@
+ 0000:13FA       N_LXLSH@
+ 0000:15A2       N_LXMUL@
+ 0000:141B       N_PADD@
+ 0000:15B9       N_PCMP@
+ 0000:144A       N_PSUB@
+ 0000:141E       PADD@
+ 0000:144D       PSUB@
+ 0000:0249       _abort
+ 0000:1250       _atan2
+ 0000:133A       _atexit
+ 0000:1200       _cos
+ 05E8:007F       _errno
+ 0000:13BF       _exit
+ 0000:0E9F       _exp
+ 0000:1D14       _farfree
+ 0000:1E28       _farmalloc
+ 0000:1F8C       _farrealloc
+ 0000:2169       _fflush
+ 0000:2236       _flushall
+ 0000:2278       _fprintf
+ 0000:2449       _fputc
+ 0000:25DC       _fputchar
+ 0000:1D14       _free
+ 0000:2316       _fseek
+ 0000:2396       _ftell
+ 02AC:016F       _gabor
+ 02AC:022A       _gabor2
+ 02AC:032D       _gabor4
+ 0000:14C6       _isatty
+ 0000:1579       _lseek
+ 02AC:000D       _main
+ 02AC:00B6       _makegabor
+ 0000:1E1E       _malloc
+ 0000:0E33       _matherr
+ 0000:23EE       _memcpy
+ 02AC:02BE       _picbufout
+ 0000:0F7A       _pow
+ 0000:0E28       _pow10
+ 0000:2412       _printf
+ 0000:15EB       _rand
+ 0000:1F85       _realloc
+ 02AC:05FF       _redgreen
+ 0000:214D       _setblock
+ 0000:27EF       _setvbuf
+ 02AC:05A3       _sign
+ 0000:1107       _sin
+ 0000:0E5D       _sqrt
+ 0000:15DA       _srand
+ 0000:16C7       _tell
+ 05E8:0100       __8087
+ 0000:1000  Abs  __AHINCR
+ 0000:000C  Abs  __AHSHIFT
+ 05E8:0310       __atexitcnt
+ 05E8:0702       __atexittbl
+ 0000:207C       __brk
+ 05E8:008B       __brklvl
+ 05E8:006B       __C0argc
+ 05E8:006D       __C0argv
+ 05E8:0071       __C0environ
+ 0000:13E0       __cexit
+ 0000:0167       __checknull
+ 0000:0154       __cleanup
+ 05E8:0312       __ctype
+ 0000:0000  Abs  __cvtfak
+ 0000:13EE       __c_exit
+ 05E8:0114       __default87
+ 05E8:05DC       __doserrno
+ 0000:14B4       __DOSERROR
+ 05E8:05DE       __dosErrorToSV
+ 0661:0000       __emu
+ 05E8:0075       __envLng
+ 05E8:0077       __envseg
+ 05E8:0079       __envSize
+ 0000:13CE       __exit
+ 05E8:0414       __exitbuf
+ 05E8:0418       __exitfopen
+ 05E8:041C       __exitopen
+ 0000:0F0D       __EXPL
+ 0000:8087  Abs  __floatconvert
+ 0000:0CB0       __fperror
+ 05E8:05DA       __fpstklen
+ 0000:04B8       __fpuint
+ 0000:242D       __fputc
+ 0000:25F0       __FPUTN
+ 05E8:0087       __heapbase
+ 05E8:008F       __heaptop
+ 05E8:011A       __huge_dble
+ 05E8:0116       __huge_flt
+ 05E8:0122       __huge_ldble
+ 05E8:012C       __indefinite
+ 05E8:005B       __Int0Vector
+ 05E8:005F       __Int4Vector
+ 05E8:0063       __Int5Vector
+ 05E8:0067       __Int6Vector
+ 0000:147B       __IOERROR
+ 05E8:0111       __LDT
+ 0000:04BC       __LDTRUNC
+ 0000:14D7       __LONGTOA
+ 0000:1157       __matherr
+ 05E8:013A       __mathwhy
+ 0000:0262       __MMODEL
+ 05E8:05B0       __nfile
+ 05E8:05B2       __openfd
+ 05E8:007D       __osmajor
+ 05E8:007E       __osminor
+ 05E8:007D       __osversion
+ 0000:0D5F       __POW10
+ 05E8:0110       __protected
+ 05E8:007B       __psp
+ 0000:2149       __REALCVT
+ 05E8:06E0       __RealCvtVector
+ 0000:01BD       __restorezero
+ 0000:20BB       __sbrk
+ 05E8:06E4       __ScanTodVector
+ 0000:1611       __setupio
+ 05E8:0081       __StartTime
+ 05E8:063C       __stklen
+ 05E8:0420       __streams
+ 0000:0168       __terminate
+ 05E8:0130       __tiny_ldble
+ 0000:0000  Abs  __turboCvt
+ 0000:8087  Abs  __turboFloat
+ 0000:1559       __UTOA
+ 05E8:007D       __version
+ 0000:16F7       __VPRINTER
+ 0000:2A59       __write
+ 0000:0AA8       __XCVT
+ 0000:2A95       __xfflush
+ 05E8:0085       ___brklvl
+ 0000:1BD4       ___first
+ 0000:03D1       ___fpreset
+ 0000:1BD6       ___last
+ 0000:1BD8       ___rover
+ 05E8:0782       ___SignalPtr
+ 0000:290A       ___write
+
+  Address         Publics by Value
+
+ 0000:0000  Abs  __turboCvt
+ 0000:0000  Abs  __cvtfak
+ 0000:000C  Abs  __AHSHIFT
+ 0000:0632  Abs  FISRQQ
+ 0000:0E32  Abs  FICRQQ
+ 0000:1000  Abs  __AHINCR
+ 0000:1632  Abs  FIERQQ
+ 0000:4000  Abs  FJARQQ
+ 0000:5C32  Abs  FIDRQQ
+ 0000:8000  Abs  FJSRQQ
+ 0000:8087  Abs  __turboFloat
+ 0000:8087  Abs  __floatconvert
+ 0000:A23D  Abs  FIWRQQ
+ 0000:C000  Abs  FJCRQQ
+ 0000:FE32  Abs  FIARQQ
+ 0000:0154       __cleanup
+ 0000:0167       __checknull
+ 0000:0168       __terminate
+ 0000:01BD       __restorezero
+ 0000:0249       _abort
+ 0000:0260       DGROUP@
+ 0000:0262       __MMODEL
+ 0000:03D1       ___fpreset
+ 0000:04B8       __fpuint
+ 0000:04BC       __LDTRUNC
+ 0000:0AA8       __XCVT
+ 0000:0CB0       __fperror
+ 0000:0D5F       __POW10
+ 0000:0E28       _pow10
+ 0000:0E33       _matherr
+ 0000:0E5D       _sqrt
+ 0000:0E9F       _exp
+ 0000:0F0D       __EXPL
+ 0000:0F7A       _pow
+ 0000:1107       _sin
+ 0000:1157       __matherr
+ 0000:1200       _cos
+ 0000:1250       _atan2
+ 0000:130E       F_FTOL@
+ 0000:130E       FTOL@
+ 0000:133A       _atexit
+ 0000:13BF       _exit
+ 0000:13CE       __exit
+ 0000:13E0       __cexit
+ 0000:13EE       __c_exit
+ 0000:13FA       N_LXLSH@
+ 0000:13FD       LXLSH@
+ 0000:13FD       F_LXLSH@
+ 0000:141B       N_PADD@
+ 0000:141E       F_PADD@
+ 0000:141E       PADD@
+ 0000:144A       N_PSUB@
+ 0000:144D       F_PSUB@
+ 0000:144D       PSUB@
+ 0000:147B       __IOERROR
+ 0000:14B4       __DOSERROR
+ 0000:14C6       _isatty
+ 0000:14D7       __LONGTOA
+ 0000:1559       __UTOA
+ 0000:1579       _lseek
+ 0000:15A2       N_LXMUL@
+ 0000:15B9       N_PCMP@
+ 0000:15DA       _srand
+ 0000:15EB       _rand
+ 0000:1611       __setupio
+ 0000:16C7       _tell
+ 0000:16F7       __VPRINTER
+ 0000:1BD4       ___first
+ 0000:1BD6       ___last
+ 0000:1BD8       ___rover
+ 0000:1D14       _farfree
+ 0000:1D14       _free
+ 0000:1E1E       _malloc
+ 0000:1E28       _farmalloc
+ 0000:1F85       _realloc
+ 0000:1F8C       _farrealloc
+ 0000:207C       __brk
+ 0000:20BB       __sbrk
+ 0000:2149       __REALCVT
+ 0000:214D       _setblock
+ 0000:2169       _fflush
+ 0000:2236       _flushall
+ 0000:2278       _fprintf
+ 0000:2316       _fseek
+ 0000:2396       _ftell
+ 0000:23EE       _memcpy
+ 0000:2412       _printf
+ 0000:242D       __fputc
+ 0000:2449       _fputc
+ 0000:25DC       _fputchar
+ 0000:25F0       __FPUTN
+ 0000:27EF       _setvbuf
+ 0000:290A       ___write
+ 0000:2A59       __write
+ 0000:2A95       __xfflush
+ 02AC:000D       _main
+ 02AC:00B6       _makegabor
+ 02AC:016F       _gabor
+ 02AC:022A       _gabor2
+ 02AC:02BE       _picbufout
+ 02AC:032D       _gabor4
+ 02AC:05A3       _sign
+ 02AC:05FF       _redgreen
+ 0313:2152       e086_Entry
+ 0313:26E0       e086_Shortcut
+ 058B:0306       e087_Entry
+ 058B:03C6       e087_Shortcut
+ 058B:0430       e087_Trap
+ 05E8:0000       DATASEG@
+ 05E8:005B       __Int0Vector
+ 05E8:005F       __Int4Vector
+ 05E8:0063       __Int5Vector
+ 05E8:0067       __Int6Vector
+ 05E8:006B       __C0argc
+ 05E8:006D       __C0argv
+ 05E8:0071       __C0environ
+ 05E8:0075       __envLng
+ 05E8:0077       __envseg
+ 05E8:0079       __envSize
+ 05E8:007B       __psp
+ 05E8:007D       __osversion
+ 05E8:007D       __osmajor
+ 05E8:007D       __version
+ 05E8:007E       __osminor
+ 05E8:007F       _errno
+ 05E8:0081       __StartTime
+ 05E8:0085       ___brklvl
+ 05E8:0087       __heapbase
+ 05E8:008B       __brklvl
+ 05E8:008F       __heaptop
+ 05E8:0100       __8087
+ 05E8:0110       __protected
+ 05E8:0111       __LDT
+ 05E8:0114       __default87
+ 05E8:0116       __huge_flt
+ 05E8:011A       __huge_dble
+ 05E8:0122       __huge_ldble
+ 05E8:012C       __indefinite
+ 05E8:0130       __tiny_ldble
+ 05E8:013A       __mathwhy
+ 05E8:0310       __atexitcnt
+ 05E8:0312       __ctype
+ 05E8:0414       __exitbuf
+ 05E8:0418       __exitfopen
+ 05E8:041C       __exitopen
+ 05E8:0420       __streams
+ 05E8:05B0       __nfile
+ 05E8:05B2       __openfd
+ 05E8:05DA       __fpstklen
+ 05E8:05DC       __doserrno
+ 05E8:05DE       __dosErrorToSV
+ 05E8:063C       __stklen
+ 05E8:06E0       __RealCvtVector
+ 05E8:06E4       __ScanTodVector
+ 05E8:0702       __atexittbl
+ 05E8:0782       ___SignalPtr
+ 0661:0000       __emu
+
+Program entry point at 0000:0000
+

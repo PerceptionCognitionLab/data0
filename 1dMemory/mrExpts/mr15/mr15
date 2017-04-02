@@ -1,0 +1,79 @@
+#! /bin/sh
+
+
+#script to move subject data files to respective directories
+RANDOM=$$
+
+basefilename="mr15s"
+#outtext=".out"
+rtftext=".rtf"
+perlscript="mr15.pl"
+copycommand="cp "
+destination=" ../../xpmnts/data"
+rooms=4
+
+function strcat ()
+ {
+     local s1_val s2_val
+
+     s1_val=${!1}                       
+     s2_val=${!2}
+     eval "$1"=\'"${s1_val}${s2_val}"\'
+
+ }
+
+
+echo "First subject number?"
+read fsubjectnum
+echo "Number of subjects to create?"
+read numsubjects
+echo "Base seed (the random seed for subject 0)?"
+read baseseed
+
+
+copied=0
+while [ "$copied" -lt "$numsubjects" ] 
+do
+let "remain=$copied % 4"
+if [ "$remain" -eq 0 ]
+then
+OUTP=`perl rooms.pl`
+let "g=0"
+for b in $OUTP
+do
+roomnames[g]=$b
+let "g=$g+1"
+done
+fi
+
+let "subjectnum=$copied+fsubjectnum"
+let "seed=$baseseed+$subjectnum"
+perl $perlscript $subjectnum $baseseed
+let "number=RANDOM % $rooms"
+until [ ${roomnames[number]} -ne 0 ]
+do
+let "number=RANDOM % $rooms"
+echo ${roomnames[@]}            
+done
+
+basefilename="mr15s"
+rtftext=".rtf"
+copycommand="cp "
+destination=" ../../xpmnts/data"
+let "room=roomnames[$number]"
+let "subject=$copied+$fsubjectnum"
+echo "Subject $subject -----> Room $room"
+strcat copycommand basefilename
+strcat copycommand subject
+copycommandrtf=$copycommand
+
+strcat copycommandrtf rtftext
+strcat copycommandrtf destination
+strcat copycommandrtf room
+
+$copycommandrtf
+roomnames[number]=0
+let "copied=$copied+1"
+done
+
+

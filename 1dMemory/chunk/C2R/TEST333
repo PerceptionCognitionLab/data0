@@ -1,0 +1,5 @@
+sub003 ch1 wd0 blk00 trl000 bt1 set4 00 01 02069
+sub003 ch1 wd0 blk00 trl001 bt1 set4 00 01 01049
+sub003 ch1 wd0 blk00 trl002 bt1 set4 01 03 02387
+sub003 ch1 wd0 blk00 trl003 bt1 set4 04 08 03071
+sub003 ch1 wd0 blk00 trl004 bt1 set4 06 07 -0007

@@ -1,0 +1,8 @@
+sub006 day6 blk0 trl000 set0 stim2 rsp2 1 07014
+sub006 day6 blk0 trl001 set0 stim1 rsp1 1 01096
+sub006 day6 blk0 trl002 set0 stim4 rsp5 0 01756
+sub006 day6 blk0 trl003 set0 stim11 rsp9 0 03684
+sub006 day6 blk0 trl004 set0 stim5 rsp10 0 06499
+sub006 day6 blk0 trl005 set0 stim1 rsp1 1 01484
+sub006 day6 blk0 trl006 set0 stim7 rsp6 0 06485
+sub006 day6 blk0 trl007 set0 stim8 rsp9 0 05932
