@@ -1,0 +1,14 @@
+sub004 blk0 trl000 btp1 crs4 stim10 rsp5 0 04465
+sub004 blk0 trl001 btp1 crs5 stim11 rsp2 0 07053
+sub004 blk0 trl002 btp1 crs4 stim10 rsp4 1 03155
+sub004 blk0 trl003 btp1 crs5 stim11 rsp5 1 00970
+sub004 blk0 trl004 btp1 crs2 stim8 rsp3 0 01199
+sub004 blk0 trl005 btp1 crs5 stim11 rsp5 1 01056
+sub004 blk0 trl006 btp1 crs2 stim8 rsp2 1 01176
+sub004 blk0 trl007 btp1 crs2 stim8 rsp3 0 01142
+sub004 blk0 trl008 btp1 crs1 stim7 rsp1 1 01814
+sub004 blk0 trl009 btp1 crs0 stim6 rsp0 1 01708
+sub004 blk0 trl010 btp1 crs3 stim9 rsp3 1 02297
+sub004 blk0 trl011 btp1 crs1 stim7 rsp2 0 01246
+sub004 blk0 trl012 btp1 crs3 stim9 rsp3 1 01103
+sub004 blk0 trl013 btp1 crs3 stim9 rsp4 0 01255

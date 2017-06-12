@@ -1,0 +1,223 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0198CH 0198DH _TEXT              CODE
+ 0198DH 01A05H 00079H MR22TEST_TEXT      CODE
+ 01A10H 01A10H 00000H _FARDATA           FAR_DATA
+ 01A10H 01A10H 00000H _FARBSS            FAR_BSS
+ 01A10H 01A10H 00000H _OVERLAY_          OVRINFO
+ 01A10H 01A10H 00000H _1STUB_            STUBSEG
+ 01A10H 01D75H 00366H _DATA              DATA
+ 01D76H 01D77H 00002H _CVTSEG            DATA
+ 01D78H 01D7DH 00006H _SCNSEG            DATA
+ 01D7EH 01D7EH 00000H _CONST             CONST
+ 01D7EH 01D83H 00006H _INIT_             INITDATA
+ 01D84H 01D84H 00000H _INITEND_          INITDATA
+ 01D84H 01D84H 00000H _EXIT_             EXITDATA
+ 01D84H 01D84H 00000H _EXITEND_          EXITDATA
+ 01D84H 01E05H 00082H _BSS               BSS
+ 01E06H 01E06H 00000H _BSSEND            BSSEND
+ 01E10H 01E8FH 00080H _STACK             STACK
+
+  Address         Publics by Name
+
+ 01A1:0000       DATASEG@
+ 0000:0260       DGROUP@
+ 0000:0327       F_LXLSH@
+ 0000:0348       F_PADD@
+ 0000:0377       F_PSUB@
+ 0000:0327       LXLSH@
+ 0000:0324       N_LXLSH@
+ 0000:0345       N_PADD@
+ 0000:04CC       N_PCMP@
+ 0000:0374       N_PSUB@
+ 0000:0348       PADD@
+ 0000:0377       PSUB@
+ 0000:0249       _abort
+ 0000:0264       _atexit
+ 01A1:007F       _errno
+ 0000:02E9       _exit
+ 0000:0BF0       _farfree
+ 0000:0D04       _farmalloc
+ 0000:0E68       _farrealloc
+ 0000:1045       _fflush
+ 0000:1112       _flushall
+ 0000:1309       _fputc
+ 0000:149C       _fputchar
+ 0000:0BF0       _free
+ 0000:11D6       _fseek
+ 0000:1256       _ftell
+ 0000:03F0       _isatty
+ 0000:04A3       _lseek
+ 0198:000D       _main
+ 0000:0CFA       _malloc
+ 0000:12AE       _memcpy
+ 0000:12D2       _printf
+ 0000:0E61       _realloc
+ 0000:1029       _setblock
+ 0000:16AF       _setvbuf
+ 0000:05A3       _tell
+ 0000:1000  Abs  __AHINCR
+ 0000:000C  Abs  __AHSHIFT
+ 01A1:009E       __atexitcnt
+ 01A1:0374       __atexittbl
+ 0000:0F58       __brk
+ 01A1:008B       __brklvl
+ 01A1:006B       __C0argc
+ 01A1:006D       __C0argv
+ 01A1:0071       __C0environ
+ 0000:030A       __cexit
+ 0000:0167       __checknull
+ 0000:0154       __cleanup
+ 0000:0000  Abs  __cvtfak
+ 0000:0318       __c_exit
+ 01A1:0266       __doserrno
+ 0000:03DE       __DOSERROR
+ 01A1:0268       __dosErrorToSV
+ 01A1:0075       __envLng
+ 01A1:0077       __envseg
+ 01A1:0079       __envSize
+ 0000:02F8       __exit
+ 01A1:00A0       __exitbuf
+ 01A1:00A4       __exitfopen
+ 01A1:00A8       __exitopen
+ 0000:12ED       __fputc
+ 0000:14B0       __FPUTN
+ 01A1:0087       __heapbase
+ 01A1:008F       __heaptop
+ 01A1:005B       __Int0Vector
+ 01A1:005F       __Int4Vector
+ 01A1:0063       __Int5Vector
+ 01A1:0067       __Int6Vector
+ 0000:03A5       __IOERROR
+ 0000:0401       __LONGTOA
+ 0000:0262       __MMODEL
+ 01A1:023C       __nfile
+ 01A1:023E       __openfd
+ 01A1:007D       __osmajor
+ 01A1:007E       __osminor
+ 01A1:007D       __osversion
+ 01A1:007B       __psp
+ 0000:1025       __REALCVT
+ 01A1:0366       __RealCvtVector
+ 0000:01BD       __restorezero
+ 0000:0F97       __sbrk
+ 01A1:0368       __ScanTodVector
+ 0000:04ED       __setupio
+ 01A1:0081       __StartTime
+ 01A1:02C2       __stklen
+ 01A1:00AC       __streams
+ 0000:0168       __terminate
+ 0000:0483       __UTOA
+ 01A1:007D       __version
+ 0000:05D3       __VPRINTER
+ 0000:1919       __write
+ 0000:1955       __xfflush
+ 01A1:0085       ___brklvl
+ 0000:0AB0       ___first
+ 0000:0AB2       ___last
+ 0000:0AB4       ___rover
+ 0000:17CA       ___write
+
+  Address         Publics by Value
+
+ 0000:0000  Abs  __cvtfak
+ 0000:000C  Abs  __AHSHIFT
+ 0000:1000  Abs  __AHINCR
+ 0000:0154       __cleanup
+ 0000:0167       __checknull
+ 0000:0168       __terminate
+ 0000:01BD       __restorezero
+ 0000:0249       _abort
+ 0000:0260       DGROUP@
+ 0000:0262       __MMODEL
+ 0000:0264       _atexit
+ 0000:02E9       _exit
+ 0000:02F8       __exit
+ 0000:030A       __cexit
+ 0000:0318       __c_exit
+ 0000:0324       N_LXLSH@
+ 0000:0327       LXLSH@
+ 0000:0327       F_LXLSH@
+ 0000:0345       N_PADD@
+ 0000:0348       F_PADD@
+ 0000:0348       PADD@
+ 0000:0374       N_PSUB@
+ 0000:0377       F_PSUB@
+ 0000:0377       PSUB@
+ 0000:03A5       __IOERROR
+ 0000:03DE       __DOSERROR
+ 0000:03F0       _isatty
+ 0000:0401       __LONGTOA
+ 0000:0483       __UTOA
+ 0000:04A3       _lseek
+ 0000:04CC       N_PCMP@
+ 0000:04ED       __setupio
+ 0000:05A3       _tell
+ 0000:05D3       __VPRINTER
+ 0000:0AB0       ___first
+ 0000:0AB2       ___last
+ 0000:0AB4       ___rover
+ 0000:0BF0       _farfree
+ 0000:0BF0       _free
+ 0000:0CFA       _malloc
+ 0000:0D04       _farmalloc
+ 0000:0E61       _realloc
+ 0000:0E68       _farrealloc
+ 0000:0F58       __brk
+ 0000:0F97       __sbrk
+ 0000:1025       __REALCVT
+ 0000:1029       _setblock
+ 0000:1045       _fflush
+ 0000:1112       _flushall
+ 0000:11D6       _fseek
+ 0000:1256       _ftell
+ 0000:12AE       _memcpy
+ 0000:12D2       _printf
+ 0000:12ED       __fputc
+ 0000:1309       _fputc
+ 0000:149C       _fputchar
+ 0000:14B0       __FPUTN
+ 0000:16AF       _setvbuf
+ 0000:17CA       ___write
+ 0000:1919       __write
+ 0000:1955       __xfflush
+ 0198:000D       _main
+ 01A1:0000       DATASEG@
+ 01A1:005B       __Int0Vector
+ 01A1:005F       __Int4Vector
+ 01A1:0063       __Int5Vector
+ 01A1:0067       __Int6Vector
+ 01A1:006B       __C0argc
+ 01A1:006D       __C0argv
+ 01A1:0071       __C0environ
+ 01A1:0075       __envLng
+ 01A1:0077       __envseg
+ 01A1:0079       __envSize
+ 01A1:007B       __psp
+ 01A1:007D       __osversion
+ 01A1:007D       __osmajor
+ 01A1:007D       __version
+ 01A1:007E       __osminor
+ 01A1:007F       _errno
+ 01A1:0081       __StartTime
+ 01A1:0085       ___brklvl
+ 01A1:0087       __heapbase
+ 01A1:008B       __brklvl
+ 01A1:008F       __heaptop
+ 01A1:009E       __atexitcnt
+ 01A1:00A0       __exitbuf
+ 01A1:00A4       __exitfopen
+ 01A1:00A8       __exitopen
+ 01A1:00AC       __streams
+ 01A1:023C       __nfile
+ 01A1:023E       __openfd
+ 01A1:0266       __doserrno
+ 01A1:0268       __dosErrorToSV
+ 01A1:02C2       __stklen
+ 01A1:0366       __RealCvtVector
+ 01A1:0368       __ScanTodVector
+ 01A1:0374       __atexittbl
+
+Program entry point at 0000:0000
+
