@@ -40,17 +40,17 @@ sort(tapply(dat$acc, dat$sub, mean))
 
 #Learning
 rtpBlock <- tapply(dat$rt, dat$blk, mean)
-plot(rtpBlock)
+# plot(rtpBlock)
 #First block is slower
 
 block1 <- subset(dat, blk == 0)
 rtpTrial1 <- tapply(block1$rt, block1$trl, mean)
-plot(rtpTrial1, pch = 19, col = "darkgray")
+# plot(rtpTrial1, pch = 19, col = "darkgray")
 #First 20 trials from block 1 should be excluded
 
 blockRest <- subset(dat, blk != 0)
 rtpTrial <- tapply(blockRest$rt, blockRest$trl, mean)
-lines(rtpTrial, col = "darkred")
+# lines(rtpTrial, col = "darkred")
 #Other blocks seem to be fine
 
 #exclude too fast, too slow, inaccurate, first 20 trials
