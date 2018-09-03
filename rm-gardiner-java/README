@@ -1,0 +1,18 @@
+This repository contains the data from a replication study of Gardiner & Java (1990), Experiment 2. The data was collected during Spring 2018 in the Memory and Cognitive Aging Laboratory at the University of Missouri.
+
+The easiest way to access the data is using "alldat.csv". It contains the data from all participants. The raw data is given in the data directory, and read_mcal.R gives an easy way in R to produce alldat.csv and a simple graph of the data.
+
+The variables in the dataset are:
+
+"ID" = participant ID (careful, may contain duplicates!)
+"item" = word or nonword presented at test
+"item_type" = is it a word or a nonword?
+"test_type" = is it an old or new item?
+"study_pos" = if it is old, when was it presented?
+"ON_resp" = participants indicate whether they think the item is old or new
+"ON_RT" = reaction time of ON response in seconds
+"rating_resp" = If they say old, participates indicate in a second step whether they *remember* or *know* that the item was old
+"rating_RT" = reaction time of rating response
+"file" = filename, does not contain duplicates.
+
+
