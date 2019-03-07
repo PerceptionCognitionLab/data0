@@ -1,0 +1,58 @@
+Experiment AP\AP0 : Affective Priming
+************Briefing:
+
+Welcome to the Perception and Cognition Lab, my name is [name]. Before
+we start our experiment, I am going to give you some brief
+instructions about what to do. If you have any questions,
+please feel free to ask me at any time.
+
+We are investigating how emotion can be represented by characters in a
+written language. In the Chinese language, for instance, positive
+ideas (such as "love") and negative ideas (such as "hate") are
+represented by characters such as the one printed here [point to
+printed ideograph]. We want to know whether negative characters look
+more negative, and vice versa, even to people who don't read
+Chinese. 
+
+In order to investigate this question, we are going to show you
+Chinese characters, and we'd like you to tell us how much you like
+that character, on a scale from 1 to 5. 1 means the character is very
+unlikeable, and 5 means the character is very likeable. The keyboard
+will be labeled appropriately.
+
+On each trial, you'll see a sequence of screens like what I've drawn
+here. First, you'll see a fixation. Focus your eyes and attention here
+at the begining of a trial. Then, the screen will flash, and a Chinese
+character will appear. You may then rate the character. Please try to
+use the full range 1-5 for your responses. After you rate
+the character, the next trial will begin. 
+
+The experiment is short, and will last only a few minutes. When you
+are done, please return to this room. Do you have any questions?
+
+***********Debriefing
+In this experiment, you rated the likeability of Chinese
+characters. In the briefing, we told you that we were interested in
+the likeability ratings to see if "negative" ideas in Chinese are
+represented by more negatively perceived characters. 
+
+You may have noticed that before each Chinese character, there was a brief
+flash. In that brief flash, we actually presented a very fast picture
+of a face. Sometimes, that face was scowling, and sometimes it was
+happy. Our main question of interest was not actually in how the
+meaning of the Chinese character is related to your judgment; in
+reality, we are interested in whether the emotional faces affect your
+likeability ratings.
+
+Previous research has found that presenting emotionally charged
+stimuli prior to a judgment can affect that judgment. For instance,
+scowling faces can make Chinese characters seem less likeable, while
+happy faces can make Chinese characters seem more likeable. This can
+even occur when the faces are presented so fast that you can not
+consciously tell the difference between scowling and happy faces. This
+is called a subliminal affective priming effect, because the face
+primes your likeability judgment. We are attempting to replicate these
+previous findings.
+
+If you have any questions about the experiment, I'd be happy to answer
+them now. 
