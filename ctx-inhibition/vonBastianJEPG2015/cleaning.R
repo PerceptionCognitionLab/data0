@@ -1,104 +1,41 @@
 library(curl) ##You will need to load the R package "curl" to use this cleaning code
 
-##Experiment 1, Stroop task (Data Set 2)
-filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/StroopSimonAPP2010/allsi2.dat")
-clnames <- c('exp'
-             , 'sub'
-             , 'blk'
-             , 'trial'
-             , 'color'
-             , 'distract'
-             , 'cond'
-             , 'resp'
-             , 'acc'
-             , 'rt'
-             , 'errorTotal')
+##Stroop Data (Data Set 1)
+filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/FlankerStroopSimon/LEF_stroop.csv")
+stroop <- read.csv2(filename, header=TRUE, dec=".")
 
-dat <- read.table(filename)
-colnames(dat) <- clnames
+stroop$cond <- as.numeric(stroop$congruency)  #congruent -> 1, incongruent -> 2, neutral -> 3
+ntrial <- length(stroop[stroop$ID == stroop$ID[1], 1])
+nsub <- length(unique(stroop$ID))
+stroop$trial <- rep(1:ntrial, nsub)
+stroop$rt <- stroop$RT/1000 #rt data in seconds
 
-#clean rt data as proposed in Pratte et al., 2010
-dat <- dat[dat$rt > .2 & dat$rt < 2, ] #Delete very slow and very fast responses
-dat <- subset(dat, acc == 1 & cond != 2 & exp == 1) #accurate data, deleting neutral condition, only stroop task data
-dat <- dat[!(dat$trial %in% 0:4), ] #Delete first 5 trials in each block
-
-dat.stroop.p1 <- dat
+stroop <- stroop[stroop$rt > .2 & stroop$rt < 2, ]
+stroop <- subset(stroop, accuracy == 1 & cond != 3)
 
 
-##Experiment 2, Stroop task (Data Set 3)
-filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/StroopSimonAPP2010/allsi7.dat")
-clnames <- c('sub'
-             ,'blk'
-             ,'blktype'
-             ,'trial'
-             ,'word'
-             ,'location'
-             ,'cond'
-             ,'resp'
-             ,'acc'
-             ,'rt'
-             ,'errorTotal')
+##Simon Data (Data Set 4)
+filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/FlankerStroopSimon/LEF_simon.csv")
+simon <- read.csv2(filename, header=TRUE, dec=".")
 
-dat <- read.table(filename)
-colnames(dat) <- clnames
+simon$cond <- as.numeric(simon$congruency)  #congruent -> 1, incongruent -> 2, neutral -> 3
+ntrial <- length(simon[simon$ID == simon$ID[1], 1])
+nsub <- length(unique(simon$ID))
+simon$trial <- rep(1:ntrial, nsub)
+simon$rt <- simon$RT/1000
 
-#clean rt data as proposed in Pratte et al., 2010
-#only congruent & incongruent condition and only stroop data
-dat <- dat[dat$rt > .2 & dat$rt < 2, ]
-dat <- subset(dat, acc == 1 & blktype == 1) #Only accurate data, only data from Stroop task
-dat <- dat[!(dat$trial %in% 0:4), ]
+simon <- simon[simon$rt > .2 & simon$rt < 2, ]
+simon <- subset(simon, accuracy == 1)
 
-dat.stroop.p2 <- dat
+##Flanker Data (Data Set 7)
+filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/FlankerStroopSimon/LEF_flanker.csv")
+flanker <- read.csv2(filename, header=TRUE, dec=".")
 
+flanker$cond <- as.numeric(flanker$congruency)  #congruent -> 1, incongruent -> 2, neutral -> 3
+ntrial <- length(flanker[flanker$ID == flanker$ID[1], 1])
+nsub <- length(unique(flanker$ID))
+flanker$trial <- rep(1:ntrial, nsub)
+flanker$rt <- flanker$RT/1000
 
-##Experiment 1, Simon task (Data Set 5)
-filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/StroopSimonAPP2010/allsi2.dat")
-clnames <- c('exp'
-             , 'sub'
-             , 'blk'
-             , 'trial'
-             , 'color'
-             , 'distract'
-             , 'cond'
-             , 'resp'
-             , 'acc'
-             , 'rt'
-             , 'errorTotal')
-
-dat <- read.table(filename)
-colnames(dat) <- clnames
-
-#clean rt data as proposed in Pratte et al., 2010
-#only congruent & incongruent condition and only stroop data
-dat <- dat[dat$rt > .2 & dat$rt < 2, ]
-dat <- subset(dat, acc == 1 & exp == 0) #accurate data, only simon task data
-dat <- dat[!(dat$trial %in% 0:4), ]
-
-dat.simon.p1 <- dat
-
-##Experiment 2, Simon task (Data Set 6)
-filename <- curl("https://raw.githubusercontent.com/PerceptionCognitionLab/data0/master/contexteffects/StroopSimonAPP2010/allsi7.dat")
-clnames <- c('sub'
-             ,'blk'
-             ,'blktype'
-             ,'trial'
-             ,'word'
-             ,'location'
-             ,'cond'
-             ,'resp'
-             ,'acc'
-             ,'rt'
-             ,'errorTotal')
-
-dat <- read.table(filename)
-colnames(dat) <- clnames
-
-#clean rt data as proposed in Pratte et al., 2010
-#only congruent & incongruent condition and only stroop data
-dat <- dat[dat$rt > .2 & dat$rt < 2, ]
-dat <- subset(dat, acc == 1 & blktype == 0) #accurate data, only simon task data
-dat <- dat[!(dat$trial %in% 0:4), ]
-
-dat.simon.p2 <- dat
-
-
+flanker <- flanker[flanker$rt > .2 & flanker$rt < 2, ]
+flanker <- subset(flanker, accuracy == 1 & cond != 3)

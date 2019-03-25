@@ -1,8 +1,8 @@
 LICENSE:
 
-These data have been published in Pratte et al., 2010, Attention, Perception, & Psychophysics.  As such, I release them for public use without
-restriction with the approval of Mike Pratte.
+These data have were collected by Klaus Oberauer and are unpublished.  As such, I release them for public use without
+restriction with the approval of Klaus Oberauer.
 
-Julia Haaf, 09/24/15
+Julia Haaf, 12/12/15
 
 
