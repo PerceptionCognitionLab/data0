@@ -1,4 +1,4 @@
-This repository contains the data from a replication study of Gardiner & Java (1990), Experiment 2. The data was collected during Spring 2018 in the Memory and Cognitive Aging Laboratory at the University of Missouri.
+This repository contains the data from a replication study of Gardiner & Java (1990), Experiments 2 and 4. The data for Exp 2 were collected during Spring 2018 in the Memory and Cognitive Aging Laboratory at the University of Missouri. The data for Exp 4 were collected during Spring 2020 in the Memory and Cognitive Aging Laboratory at the University of Missouri.
 
 The easiest way to access the data is using "alldat.csv". It contains the data from all participants. The raw data is given in the data directory, and read_mcal.R gives an easy way in R to produce alldat.csv and a simple graph of the data.
 
