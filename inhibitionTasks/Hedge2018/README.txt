@@ -1,3 +1,8 @@
+
+Folder "clean" created by Jeff Rouder in accordance with Rouder et al, "Why inhibition studies are doomed to failure".  jrouder@uci.edu
+
+
+
 Any questions or oddities, email Craig Hedge at hedgec@cardiff.ac.uk.
 
 
