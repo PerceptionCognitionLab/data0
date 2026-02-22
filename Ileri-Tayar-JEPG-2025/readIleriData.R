@@ -36,6 +36,7 @@ processIleriData=function(dat){
 }
 
 loadIleriData=function(){
-  processIleriData(read.csv("~/git/ind-provreac/data/ileri-tayar/alldata_excluded_combined.csv"))
+  link="https://raw.githubusercontent.com/PerceptionCognitionLab/data0/refs/heads/master/Ileri-Tayar-JEPG-2025/alldata_excluded_combined.csv"
+  processIleriData(read.csv(url(link)))
 }
 
