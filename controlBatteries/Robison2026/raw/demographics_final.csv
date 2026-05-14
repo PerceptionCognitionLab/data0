@@ -1,0 +1,275 @@
+SubjectId,MachineName,Last,First,Age,bDay,Weight,HeightFt,HeightIn,Gender,AmerIndian,Asian,Black,Hispanic,Hawaii,White,Other,NativeEnglish,NativeLanguage,ColorBlind,WearsGlasses,NormalVision,NormalHearing,Medication,HoursSleep,Caffeine,Date
+7896,PSYC-134128,XX,XX,2,9/26/2022,0,0,0,,0,0,0,0,0,0,0,False,,,,,,False,0,0,9/26/2022 3:28:42 PM
+1245,PSYC-129887,XX,XX,21,9/26/2022,0,0,0,,0,0,0,0,0,0,0,False,,,,,,False,0,0,9/26/2022 3:35:58 PM
+9001,PSYC-132589,Lockett-Ferguson,BreOnna,18,12/3/2003,190,5,8,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/3/2022 9:18:08 AM
+9002,PSYC-134130,Duong,Madison,19,9/24/2003,90,5,3,Female,0,1,0,0,0,0,0,False,Cantonese,No,No,Yes,Yes,False,0,0,10/3/2022 9:20:18 AM
+9003,PSYC-134128,Saji,Lea,20,8/13/2002,180,5,4,Female,0,1,0,0,0,0,0,False,Malayalam,No,Yes,Yes,No,False,0,0,10/3/2022 9:23:16 AM
+9004,PSYC-132589,Abdal,Zeenat Jahan ,19,12/25/2002,120,5,3,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,10/3/2022 11:54:15 AM
+9005,PSYC-134128,Wright,Kaelyn,18,9/5/2004,125,5,5,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/3/2022 12:07:00 PM
+9006,PSYC-132589,Bhakta,Srushti,18,1/24/2004,104,5,5,Female,0,1,0,0,0,0,0,False,,No,Yes,Yes,No,False,0,0,10/4/2022 9:05:50 AM
+9007,PSYC-134128,ivanoff,casey,18,6/28/2004,132,5,1,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/4/2022 9:06:20 AM
+9008,PSYC-132589,Haynes,Garrett,23,11/5/2022,154,5,11,Male,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/4/2022 12:04:43 PM
+9009,PSYC-134128,Le,Lilly,20,5/13/2002,140,5,5,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/4/2022 12:05:09 PM
+9010,PSYC-134128,Ganal,Janine Christine,18,8/23/2004,175,5,0,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,10/4/2022 3:03:55 PM
+9011,PSYC-134130,Ravin,Preston,18,7/16/2004,176,6,0,Male,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/4/2022 3:06:08 PM
+9012,PSYC-132589,Youngblood,Lauren,19,5/20/2003,170,5,4,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/4/2022 3:33:45 PM
+9013,PSYC-132589,yacoub,mariam,20,4/21/2002,175,5,3,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/5/2022 9:07:51 AM
+9014,PSYC-134130,Nwaefulu,Bianca,20,10/10/2001,180,5,10,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/5/2022 9:12:25 AM
+9015,PSYC-132589,Vega Siurano,Savier,22,12/30/1999,160,5,11,Male,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,10/5/2022 12:02:09 PM
+9016,PSYC-134128,romero,isabella,18,7/23/2004,113,5,3,Female,0,0,0,1,0,1,0,False,spanish,No,No,No,No,False,0,0,10/5/2022 12:02:41 PM
+9017,PSYC-134130,Sayed,Ghada,17,12/22/2004,155,5,7,Female,0,0,1,0,0,0,0,False,Arabic,No,No,Yes,Yes,False,0,0,10/5/2022 12:07:00 PM
+999,PSYC-134130,x,x,21,10/5/2022,0,0,0,,0,0,0,0,0,0,0,False,,,,,,False,0,0,10/5/2022 2:15:39 PM
+9019,PSYC-134128,Escamilla Reyes,Jasmin,18,1/24/2004,154,5,4,Female,0,0,0,1,0,0,1,False,Spanish,No,Yes,Yes,No,False,0,0,10/5/2022 3:00:11 PM
+9018,PSYC-132589,Beer,Alexandra,18,11/13/2003,135,5,6,Female,0,1,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/5/2022 3:00:42 PM
+9020,PSYC-134130,Alvarado,Ximena,18,12/23/2003,130,5,8,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,10/5/2022 3:10:09 PM
+9021,PSYC-132589,Herndon,Atlas,21,1/8/2001,370,6,0,Non-binary,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/6/2022 12:03:01 PM
+9022,PSYC-134128,Santos,Darlene Shelsie,19,5/8/2003,120,5,0,Female,0,1,0,0,0,0,0,False,Tagalog,No,No,Yes,No,False,0,0,10/6/2022 12:05:19 PM
+9023,PSYC-134130,Phan,Rachel,19,5/17/2003,90,5,5,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/6/2022 12:06:01 PM
+9024,PSYC-132589,mcdonald,kirsten,100,1/31/2004,170,5,8,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,No,False,0,0,10/6/2022 3:04:53 PM
+9025,PSYC-134128,Woods,Jordan,19,1/5/2003,135,5,10,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/6/2022 3:05:58 PM
+9026,PSYC-134130,Queijeiro Patino,Miguel,19,9/9/2003,158,6,1,Male,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,10/6/2022 3:20:59 PM
+9027,PSYC-134130,Abdoun,Eithar,22,2/10/2000,165,5,5,Female,0,0,1,0,0,0,0,False,Arabic,No,No,Yes,Yes,False,0,0,10/7/2022 9:04:03 AM
+9028,PSYC-134128,Gizaw,Wengelawit,19,2/26/2003,153,5,3,Female,0,0,1,0,0,0,0,False,Amharic,No,No,Yes,Yes,False,0,0,10/7/2022 9:04:41 AM
+9029,PSYC-132589,Morales,Iris,19,1/3/2003,350,5,8,Female,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,10/7/2022 11:55:42 AM
+9030,PSYC-134128,Chacko,Irene,18,3/10/2004,114,5,0,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/7/2022 12:04:46 PM
+9031,PSYC-134130,Samarah,Rushmiah,18,11/22/2003,120,5,3,Female,0,1,0,0,0,0,0,False,Bengali,No,Yes,Yes,Yes,False,0,0,10/7/2022 12:06:37 PM
+9032,PSYC-132589,Darji,Aarti,18,2/24/2004,114,5,2,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/7/2022 3:02:22 PM
+9033,PSYC-134128,Nguyen,Michelle,18,6/1/2004,120,5,5,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/7/2022 3:09:31 PM
+9034,PSYC-134130,qi,christina,18,10/22/2003,118,5,1,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/7/2022 3:11:12 PM
+9035,PSYC-134128,Puthiyadam,Melissa,18,3/24/2004,101,5,3,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/31/2022 11:58:09 AM
+9036,PSYC-132589,Kim,Andy,18,1/30/2004,175,5,10,Male,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/31/2022 12:02:05 PM
+9037,PSYC-134130,Choi,Erica,19,9/22/2003,105,5,4,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/31/2022 12:03:53 PM
+9038,PSYC-132589,pandey,sara,19,9/13/2003,160,5,3,Female,0,1,0,0,0,0,0,False,Nepali,No,No,Yes,No,False,0,0,10/31/2022 3:11:35 PM
+9039,PSYC-134128,saenz,jalina,20,11/3/2001,220,5,2,Female,0,0,0,1,0,1,0,True,,No,,Yes,Yes,False,0,0,10/31/2022 3:11:58 PM
+9042,PSYC-134128,Valdez,Ivan,18,7/24/2004,220,5,9,Male,1,0,0,1,0,0,0,False,Spanish,No,No,No,Yes,False,0,0,11/1/2022 9:08:36 AM
+9041,PSYC-132589,Amaya,Anajezel,18,12/18/2003,120,5,4,Female,0,0,0,1,0,1,0,True,,No,No,No,No,False,0,0,11/1/2022 9:08:43 AM
+9043,PSYC-134128,Zarate,Jose,29,9/21/1993,195,5,9,Male,0,0,0,1,0,0,1,True,,No,No,No,No,False,0,0,11/1/2022 12:05:34 PM
+9045,PSYC-134130,Kurian,Angel,18,4/12/2004,138,5,3,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,11/1/2022 12:16:00 PM
+9044,PSYC-132589,sherpa,dolma,19,11/1/2022,110,5,2,,0,1,0,0,0,0,0,False,nepali,No,No,Yes,Yes,False,0,0,11/1/2022 12:17:29 PM
+9046,PSYC-132589,Turner,Javiah ,18,5/18/2004,254,5,6,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,11/1/2022 2:53:08 PM
+9047,PSYC-134128,Salinas,Kenneth ,19,10/28/2003,190,5,11,Male,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,11/1/2022 3:02:11 PM
+9048,PSYC-134130,Yu,QianJun,19,6/5/2003,220,5,4,Male,0,1,0,0,0,0,0,False,Chinese,No,Yes,Yes,Yes,False,0,0,11/1/2022 3:09:51 PM
+9049,PSYC-132589,hartley,rachael,18,12/15/2003,110,5,4,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,11/2/2022 9:04:25 AM
+9050,PSYC-134128,Azeem,Umer,17,3/19/2005,124,5,8,Male,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,11/2/2022 9:04:53 AM
+9051,PSYC-134130,Chavali,Anjani,23,9/22/1999,121,5,6,Female,0,1,0,0,0,0,0,False,Telugu,No,No,Yes,Yes,False,0,0,11/2/2022 9:10:09 AM
+9053,PSYC-134128,Guerrero,Cindy,18,5/11/2004,160,5,6,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,11/2/2022 12:05:23 PM
+9052,PSYC-132589,Shadali,Elhaam,20,1/25/2002,140,5,4,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,11/2/2022 12:05:50 PM
+9054,PSYC-134130,Casteel,Ireland,21,10/4/2001,190,5,3,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,11/2/2022 12:06:39 PM
+9055,PSYC-132589,wheeler,lindsey,19,2/20/2003,170,5,7,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,11/2/2022 3:09:24 PM
+9056,PSYC-134128,Belgica,Kevin,19,9/5/2003,200,5,5,Male,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,11/2/2022 3:11:13 PM
+9057,PSYC-134130,Tobias,Jon,18,9/23/2003,235,5,9,Male,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,11/2/2022 3:12:11 PM
+9058,PSYC-134130,de Vera,Kirsten,20,9/2/2002,195,5,5,Female,0,1,0,0,0,0,0,False,Tagalog/Filipino,No,Yes,Yes,Yes,False,0,0,11/7/2022 9:07:50 AM
+9059,PSYC-132589,Robbins,Bonnie,18,6/25/2004,110,5,4,Female,0,0,0,0,0,1,0,True,,No,No,No,Yes,False,0,0,2/6/2023 11:59:41 AM
+9060,PSYC-134128,Knight,Caitlin,19,9/1/2003,142,5,4,Female,0,0,1,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/6/2023 12:01:07 PM
+9061,PSYC-134130,Cumberland,Mia,100,7/5/2004,195,5,5,Female,0,1,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/6/2023 12:01:21 PM
+9062,PSYC-132589,Roscher-Smith,Emma ,18,8/5/2004,120,5,5,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/6/2023 2:56:25 PM
+9063,PSYC-134128,Boelter,Kaitlyn,18,2/18/2004,140,5,7,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/6/2023 3:02:16 PM
+9065,PSYC-132589,Martinez,Mario,20,4/28/2002,143,5,7,Male,0,0,0,1,0,0,1,True,,No,Yes,Yes,Yes,False,0,0,2/7/2023 9:16:41 AM
+9067,PSYC-134130,Sangha,Simren,18,5/17/2004,113,5,4,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2023 9:17:36 AM
+9066,PSYC-134128,Palma,James,22,12/21/2000,183,5,8,Male,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2023 9:18:00 AM
+9068,PSYC-132589,Pennington,Harley,19,9/12/2003,100,4,10,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/7/2023 11:56:05 AM
+9069,PSYC-134128,Crouse,Isabelle ,19,2/2/2004,121,4,7,Female,1,0,0,1,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2023 12:03:03 PM
+9070,PSYC-134130,Tasfia,Knowme,20,2/7/2023,115,5,0,Female,0,1,0,0,0,0,0,False,Bengali,No,Yes,Yes,Yes,False,0,0,2/7/2023 12:13:10 PM
+9071,PSYC-132589,Conde,Christian,100,12/21/2002,175,5,10,Male,0,0,0,1,0,1,0,True,,No,Yes,Yes,No,False,0,0,2/7/2023 3:10:18 PM
+9072,PSYC-134128,Maravilla,Briana,20,7/26/2002,163,5,4,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/7/2023 3:12:27 PM
+9073,PSYC-134130,owusu,dilys,18,3/17/2023,121,5,2,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,2/7/2023 3:16:17 PM
+9074,PSYC-132589,Jaimes,Nicole,21,1/4/2002,161,5,0,Female,0,0,0,1,0,0,1,True,,No,No,Yes,Yes,False,0,0,2/8/2023 9:22:50 AM
+9077,PSYC-134130,Anderson,Se'Majae,19,7/14/2003,152,5,3,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/8/2023 12:01:08 PM
+9078,PSYC-134128,Garza,Julia,18,7/23/2004,170,5,8,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/8/2023 12:03:15 PM
+9079,PSYC-132589,Lopez,Delilah,18,4/7/2004,138,5,6,Female,0,0,0,1,0,1,0,True,,No,No,Yes,No,False,0,0,2/8/2023 12:06:57 PM
+9079,PSYC-132589,Lopez,Delilah,18,4/7/2004,138,5,6,Female,0,0,0,1,0,1,0,True,,No,No,Yes,No,False,0,0,2/8/2023 12:08:27 PM
+9080,PSYC-134130,Ortiz,Alyssa,19,4/27/2003,115,5,3,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/8/2023 2:58:51 PM
+9081,PSYC-132589,Hernandez,Raeesah,20,5/17/2002,175,5,4,Female,0,1,0,1,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/8/2023 3:02:17 PM
+9082,PSYC-132589,Concha,Citlali,19,6/24/2003,135,5,3,Female,0,0,0,1,0,0,1,False,Spanish,No,No,Yes,Yes,False,0,0,2/9/2023 9:02:59 AM
+9083,PSYC-132589,Saunders,Evan,20,12/3/2002,172,5,9,Male,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/9/2023 12:12:43 PM
+9084,PSYC-134128,Gonzales,Gabriela Gonzales,18,10/25/2004,110,5,6,Female,0,0,1,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/9/2023 12:12:49 PM
+9085,PSYC-134130,cude,sadie,18,3/29/2004,130,5,7,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/9/2023 12:13:46 PM
+9086,PSYC-132589,Owusu-Sekyere,Regina,19,10/16/2003,220,5,5,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,2/9/2023 3:03:20 PM
+9087,PSYC-134128,Padierna,Jennifer,19,2/9/2023,128,5,4,Female,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,2/9/2023 3:04:48 PM
+9088,PSYC-134130,silva,galilea,19,12/8/2003,160,5,6,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/9/2023 3:05:17 PM
+9090,PSYC-132589,ALLEN,BRIDGETTE,18,7/28/2004,160,5,6,Female,0,0,1,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/10/2023 9:09:57 AM
+9089,PSYC-134128,Camacho,Emily,18,5/30/2004,105,5,2,Female,0,0,0,1,0,0,1,False,Spanish,No,Yes,Yes,Yes,False,0,0,2/10/2023 9:10:41 AM
+9092,PSYC-132589,Campos,Jaquelin,19,12/20/2003,135,5,7,Female,0,0,0,1,0,1,0,False,spanish,No,Yes,Yes,Yes,False,0,0,2/10/2023 12:03:15 PM
+9093,PSYC-134128,vargas,itzel,19,10/5/2003,117,5,3,Female,0,0,0,1,0,0,1,True,,No,No,Yes,Yes,False,0,0,2/10/2023 12:09:28 PM
+9094,PSYC-134130,Sulaimon,Mohammed,19,5/12/2003,155,5,11,Male,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,2/10/2023 12:11:08 PM
+9095,PSYC-132589,Gore,Naponi,19,12/12/2003,110,5,8,Female,0,0,1,0,0,0,0,True,,No,No,No,No,False,0,0,2/10/2023 3:04:27 PM
+9096,PSYC-134128,gore,najuwan,19,12/12/2003,125,5,8,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/10/2023 3:04:53 PM
+9097,PSYC-134130,Acevedo,Bilardo,21,1/1/2002,180,6,1,Male,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,2/10/2023 3:07:24 PM
+99,PSYC-134128,Akintimi,Yoyinsola,18,1/7/2005,188,5,5,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/13/2023 9:08:24 AM
+9091,PSYC-134128,Leigh,Austin,100,12/13/2003,135,5,7,Male,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,2/17/2023 9:11:40 AM
+9098,PSYC-132589,De Leon Carrizales,Daphne,17,8/9/2005,121,5,3,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,3/27/2023 11:58:29 AM
+9100,PSYC-134130,Enriquez,Daniella,18,7/2/2004,180,5,7,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,3/27/2023 12:12:51 PM
+9101,PSYC-132589,Duque,Diane,19,1/4/2004,155,5,3,Female,1,0,0,1,0,0,0,True,,No,No,Yes,Yes,False,0,0,3/27/2023 3:02:11 PM
+9102,PSYC-134128,johnson,madison,18,12/20/2004,195,5,6,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,3/27/2023 3:03:21 PM
+9103,PSYC-132589,John,Anju,21,3/28/2023,125,5,8,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,3/28/2023 9:05:05 AM
+9104,PSYC-134128,Antwi,Christabel,21,1/28/2002,117,5,7,Female,0,0,1,0,0,0,0,False,twi,No,No,Yes,Yes,False,0,0,3/28/2023 9:20:17 AM
+9105,PSYC-134130,Garcia,Anna,18,10/20/2004,130,5,3,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,3/28/2023 12:02:09 PM
+9106,PSYC-132589,Holmes,Lauren,18,9/10/2004,102,5,7,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,3/28/2023 12:07:30 PM
+9108,PSYC-134128,Knight,Davin,19,2/13/2004,195,5,6,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,3/28/2023 3:03:17 PM
+9107,PSYC-132589,Luu,Thien,18,5/26/2004,125,5,8,Male,0,1,0,0,0,0,0,False,Vietnamese,Yes,Yes,Yes,Yes,False,0,0,3/28/2023 3:05:00 PM
+9109,PSYC-132589,Devore,Aaliyah,21,11/24/2001,140,5,4,Female,0,0,1,1,0,0,0,False,Spanish,No,No,No,No,False,0,0,3/29/2023 9:06:11 AM
+9110,PSYC-134128,Pearson,Ashley,21,12/27/1998,125,5,7,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,3/29/2023 9:13:15 AM
+9112,PSYC-134128,Einieh,Abdulrahman,19,11/3/2003,140,5,7,Male,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,3/29/2023 11:57:29 AM
+9114,PSYC-134128,Motawea,Ingie,18,3/29/2023,330,6,0,Female,0,0,0,0,0,0,1,True,,No,No,No,No,False,0,0,3/29/2023 3:01:49 PM
+9115,PSYC-132589,Cartwright,Naiya,18,7/25/2004,110,5,3,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,3/30/2023 11:58:39 AM
+9116,PSYC-134128,Sadek,Marina,19,3/30/2023,120,5,2,Female,0,0,0,0,0,0,1,False,Arabic,No,No,Yes,Yes,False,0,0,3/30/2023 12:08:30 PM
+9117,PSYC-132589,Moncivaiz,Sonya,20,9/25/2002,200,5,0,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,3/30/2023 3:08:30 PM
+9118,PSYC-134128,Mulkey,Meghan,22,11/13/2000,170,5,6,,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/30/2023 3:11:09 PM
+9119,PSYC-132589,FERNANDES,KAREN,18,2/8/2005,92,5,1,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,3/31/2023 9:06:41 AM
+9122,PSYC-132589,Do,Lilian,19,3/26/2004,140,5,3,Female,0,1,0,0,0,0,0,True,,No,No,No,No,False,0,0,3/31/2023 12:02:00 PM
+9123,PSYC-134128,Lacap,Elijah Russell,18,8/28/2004,136,5,9,Male,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,3/31/2023 12:07:01 PM
+9125,PSYC-134128,Garcia,Arianna ,19,3/19/2004,115,5,2,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/31/2023 2:59:50 PM
+9124,PSYC-132589,Elujoba,Ebunoluwa,17,10/19/2005,180,5,9,Female,0,0,1,0,0,0,0,True,,No,No,No,No,False,0,0,3/31/2023 3:01:12 PM
+9126,PSYC-134128,Ramesh,Rosshan,21,3/4/2023,170,5,9,Male,0,1,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,4/3/2023 3:11:47 PM
+9121,PSYC-134130,nair,swathi,18,6/8/2004,130,5,0,Female,0,1,0,0,0,0,0,False,Malayalam,No,Yes,Yes,Yes,False,0,0,4/7/2023 9:13:58 AM
+9999,PSYC-134130,Garner,Lauren,28,5/5/1995,135,5,4,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,5/11/2023 3:00:59 PM
+9127,PSYC-134128,Yacoub,Aadil,19,12/1/2003,220,5,11,Male,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,6/12/2023 3:04:26 PM
+9128,PSYC-134130,Taylor,Hannah,22,8/18/2000,185,5,6,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,6/12/2023 3:09:55 PM
+9130,PSYC-134128,williams,zoy,19,12/19/2003,158,5,7,Female,0,0,0,1,0,0,1,True,,No,No,Yes,Yes,False,0,0,6/16/2023 9:22:43 AM
+9131,PSYC-134130,Kim,Shawn,18,1/5/2005,170,5,11,Male,0,1,0,0,0,0,0,False,Korean,No,Yes,Yes,Yes,False,0,0,6/16/2023 12:04:43 PM
+9132,PSYC-134128,joshi,abhishek ,22,6/16/2023,0,0,0,Male,0,1,0,0,0,0,0,False,marathi,No,Yes,Yes,Yes,False,0,0,6/16/2023 3:11:02 PM
+9133,PSYC-134128,Van Zelfden,Annemarie,18,8/8/2004,128,5,8,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,6/20/2023 12:04:06 PM
+9134,PSYC-134128,sarfaraz,sehar,20,4/30/2003,0,0,0,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,6/21/2023 12:00:24 PM
+9135,PSYC-134128,Daher,Ons,20,5/15/2003,128,5,4,Female,0,0,0,0,0,1,0,False,Arabic,No,Yes,Yes,Yes,False,0,0,7/6/2023 12:05:28 PM
+9136,PSYC-134130,Dolan,Charlie,17,7/11/2023,170,6,0,Non-binary,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,7/7/2023 3:04:22 PM
+9137,PSYC-132589,De Guzman,Xen,19,6/5/2004,160,5,8,Female,0,1,0,0,0,0,0,False,Tagalog,No,No,Yes,Yes,False,0,0,9/11/2023 9:06:54 AM
+9138,PSYC-134130,Mogor,Adaobi,18,8/31/2005,163,5,5,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,9/11/2023 9:12:49 AM
+9139,PSYC-134128,Acanda,Dania,22,5/15/2001,240,5,4,Female,0,0,0,1,0,1,0,False,spanish,No,No,Yes,Yes,False,0,0,9/11/2023 9:13:57 AM
+9140,PSYC-132589,Rahim,Zainab,21,2/12/2002,137,5,3,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,9/11/2023 12:03:29 PM
+9141,PSYC-134128,Doctor,Deja,19,3/13/2004,214,5,8,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,9/11/2023 12:09:32 PM
+9142,PSYC-134130,Cabello,Guadalupe,18,12/23/2004,160,5,1,Female,0,0,0,1,0,0,1,False,Spanish,No,Yes,Yes,Yes,False,0,0,9/11/2023 12:22:19 PM
+9143,PSYC-132589,Bernal,Diego,18,4/8/2005,265,5,9,Male,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,9/11/2023 2:59:01 PM
+9144,PSYC-134128,Quezada,Astrid,18,10/14/2004,97,5,1,Female,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,9/11/2023 3:01:00 PM
+9145,PSYC-134130,Phommalay,Akira,18,11/7/2004,180,6,0,Male,0,1,0,0,0,0,0,True,,No,No,Yes,No,False,0,0,9/11/2023 3:04:21 PM
+9146,PSYC-134130,Burkey,Lauren ,100,2/9/2005,120,5,4,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,9/12/2023 9:04:12 AM
+9147,PSYC-134128,jones,jakirion,18,11/12/2004,155,6,0,Male,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,9/12/2023 9:06:03 AM
+9148,PSYC-132589,Salmeron,Caroline,18,12/31/2004,115,4,10,Female,0,0,0,1,0,1,0,False,spanish,No,Yes,Yes,Yes,False,0,0,9/12/2023 9:07:28 AM
+9149,PSYC-132589,Danab,Caroleena ,18,3/11/2005,122,5,5,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,9/12/2023 11:58:55 AM
+9150,PSYC-134128,Medina,Pamela,19,9/21/2003,185,5,4,Female,0,0,0,1,0,0,1,False,Spanish,No,No,Yes,Yes,False,0,0,9/12/2023 11:59:29 AM
+9151,PSYC-134130,arellano,emily ,19,10/24/2003,145,5,2,Female,0,0,0,1,0,0,1,True,,No,Yes,Yes,No,False,0,0,9/12/2023 12:00:04 PM
+9152,PSYC-132589,Bonilla,Frida,19,6/21/2004,175,5,5,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,9/12/2023 2:58:47 PM
+9152,PSYC-132589,Bonilla,Frida,19,6/21/2004,170,5,5,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,9/12/2023 3:00:05 PM
+9153,PSYC-134128,Okokhere,blake,19,10/3/2003,149,5,8,Male,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/12/2023 3:22:43 PM
+9154,PSYC-134128,Doman,Anthony Earl,18,5/9/2005,170,5,5,Male,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/13/2023 9:13:01 AM
+9155,PSYC-132589,Garcia,Melissa,18,8/10/2005,135,5,0,Female,0,0,0,1,0,1,0,False,spanish,No,No,Yes,Yes,False,0,0,9/13/2023 9:14:59 AM
+9156,PSYC-132589,Nwedo,Linda ,18,6/14/2005,144,5,4,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,9/13/2023 12:06:18 PM
+9157,PSYC-134128,salazar,natalie ,18,4/19/2005,160,5,4,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,9/13/2023 12:12:41 PM
+9158,PSYC-132589,Danh,Anthony,18,10/7/2004,163,5,11,Male,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/13/2023 3:00:25 PM
+9159,PSYC-134128,Alonge,Nifemi ,20,9/11/2003,129,5,5,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/13/2023 3:01:40 PM
+9160,PSYC-134130,Anker,Ava,18,2/20/2005,162,5,4,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,9/13/2023 3:01:57 PM
+9161,PSYC-134128,McCall,Esther,18,1/11/2005,163,5,2,Female,0,0,1,0,0,0,1,True,,No,Yes,Yes,No,False,0,0,9/14/2023 9:13:18 AM
+9162,PSYC-132589,Abdilahi,Sundus,18,8/28/2005,103,5,5,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/14/2023 9:14:39 AM
+9163,PSYC-134130,Santos Fortanell,Surayma,18,2/2/2005,135,5,0,Female,0,0,0,1,0,0,1,False,Spanish,No,No,No,No,False,0,0,9/14/2023 9:29:38 AM
+9164,PSYC-134128,Avelar,Itzel,18,9/14/2023,155,5,2,Female,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,9/14/2023 11:51:05 AM
+9166,PSYC-134130,Sheikh,Shabeeba,18,3/31/2005,160,5,1,Female,0,1,0,0,0,0,0,False,Bangla,No,Yes,Yes,Yes,False,0,0,9/14/2023 12:02:53 PM
+9165,PSYC-132589,pegueros,ariana,18,4/26/2005,150,5,7,Female,0,0,0,1,0,0,1,False,spanish,No,No,Yes,Yes,False,0,0,9/14/2023 12:01:27 PM
+9165,PSYC-132589,pegueros,ariana,18,4/26/2005,150,5,7,Female,0,0,0,1,0,0,1,False,spanish,No,No,Yes,Yes,False,0,0,9/14/2023 12:07:17 PM
+9167,PSYC-134130,Mbah,Jennifer,18,9/14/2023,171,5,7,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,9/14/2023 3:01:14 PM
+9168,PSYC-134128,puentes,joanna,18,8/18/2005,160,5,5,Female,0,0,0,1,0,1,0,False,spanish,No,Yes,Yes,No,False,0,0,9/14/2023 3:02:45 PM
+9169,PSYC-132589,Beltran,Monica,18,7/20/2005,158,4,11,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,9/14/2023 3:03:11 PM
+9170,PSYC-132589,Alvarez,Francisco,19,1/11/2004,253,5,9,Male,0,0,0,1,0,1,0,True,,No,Yes,Yes,No,False,0,0,9/15/2023 9:08:41 AM
+9171,PSYC-134128,dye,heather,18,12/16/2004,180,5,0,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,9/15/2023 9:11:53 AM
+9172,PSYC-132589,Reynoso,EvaLynn,23,1/19/2000,105,5,2,Female,0,0,0,1,0,0,1,True,,No,No,Yes,No,False,0,0,9/15/2023 12:01:08 PM
+9173,PSYC-134128,Flores,Reyna,19,2/8/2004,182,5,4,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,9/15/2023 12:05:58 PM
+9174,PSYC-134128,Harris,Chanel,18,9/23/2023,128,5,4,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/15/2023 2:52:25 PM
+9175,PSYC-134130,Vallee,Seth,19,6/4/2004,152,5,7,Male,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,9/15/2023 2:56:22 PM
+9176,PSYC-132589,Parker Alexander,Elissa,18,8/10/2005,135,5,2,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,9/15/2023 3:09:23 PM
+9177,PSYC-132589,Amaro,John,18,5/13/2005,170,5,8,Male,0,0,0,1,0,0,1,False,Spanish,No,No,Yes,Yes,False,0,0,9/22/2023 12:24:10 PM
+9180,PSYC-132589,Taylor,Kaliyah,20,6/18/2003,140,5,8,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/9/2023 9:01:51 AM
+9179,PSYC-134128,Owusu,Lord,18,12/12/2004,200,5,10,Male,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/9/2023 9:09:36 AM
+9182,PSYC-132589,Mares,Alejandra,18,2/15/2005,130,5,3,Female,1,0,0,1,0,0,0,False,Spanish,No,Yes,Yes,No,False,0,0,10/9/2023 11:59:15 AM
+9183,PSYC-134130,Villegas,Jessica,19,1/7/2004,160,5,4,Female,0,0,0,1,0,0,1,True,,No,Yes,Yes,No,False,0,0,10/9/2023 12:07:14 PM
+9181,PSYC-134128,Farib,Sadman Haque ,19,2/23/2004,0,5,7,Male,0,1,0,0,0,0,0,False,Bengali,No,Yes,Yes,Yes,False,0,0,10/9/2023 12:07:39 PM
+9184,PSYC-132589,Horton,Ebony,18,5/26/2005,161,5,6,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/9/2023 2:44:29 PM
+9185,PSYC-134128,Avalos,Nicole,18,4/20/2005,97,5,2,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/9/2023 2:53:50 PM
+9186,PSYC-134130,Lozano,Sophia,18,11/5/2004,165,5,3,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/9/2023 2:58:31 PM
+9188,PSYC-134128,Allison,Allyssa,21,9/5/2002,130,5,4,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/10/2023 9:01:48 AM
+9182,PSYC-134130,Sanders,Kai,18,8/18/2005,147,5,3,Male,0,0,1,0,0,0,0,True,,No,No,No,No,False,0,0,10/10/2023 9:07:50 AM
+9189,PSYC-134130,Sanders,Kai,18,8/18/2005,147,5,3,Male,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/10/2023 9:17:52 AM
+9187,PSYC-132589,Kponon-Eklou,Emmanuella,18,12/8/2004,160,5,2,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/10/2023 9:01:56 AM
+9187,PSYC-132589,Kponon-Eklou,Emmanuella,18,12/8/2004,160,5,2,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/10/2023 9:23:49 AM
+9190,PSYC-134128,Wood,KayLee,100,10/10/2023,148,5,4,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/10/2023 11:54:08 AM
+9141,PSYC-132589,Badawi,Rawan,18,10/23/2004,115,5,7,Female,0,0,0,0,0,1,0,False,Arabic,No,No,Yes,Yes,False,0,0,10/10/2023 12:05:40 PM
+9191,PSYC-132589,Badawi,Rawan,18,10/23/2004,115,5,7,Female,0,0,0,0,0,1,0,False,Arabic,No,No,Yes,Yes,False,0,0,10/10/2023 12:07:09 PM
+9192,PSYC-134130,beltran,alicia,18,8/24/2005,190,5,7,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,10/10/2023 12:08:02 PM
+9193,PSYC-132589,Bernal,Shalmai ,18,2/7/2005,130,5,2,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,No,False,0,0,10/10/2023 2:48:35 PM
+9195,PSYC-134130,Kilwani,Anjiya,18,1/16/2005,119,5,2,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/10/2023 2:57:34 PM
+9194,PSYC-134128,Ibarra,Aleny,18,9/6/2005,120,5,5,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,10/10/2023 2:59:31 PM
+9196,PSYC-132589,figueroa,marcus,22,3/9/2001,170,5,5,Male,0,0,0,1,0,0,1,False,spanish,No,Yes,Yes,No,False,0,0,10/11/2023 9:06:19 AM
+9197,PSYC-134128,lara,kimberly,18,12/6/2004,203,5,7,Female,0,0,0,1,0,1,0,False,spanish,No,Yes,Yes,Yes,False,0,0,10/11/2023 9:07:09 AM
+9198,PSYC-134130,Bessman,Adeodata,19,2/14/2004,0,0,0,,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/11/2023 9:24:43 AM
+9199,PSYC-132589,Vang,Carolinh,19,1/19/2004,113,4,10,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/11/2023 11:59:20 AM
+9200,PSYC-134128,Thakkar,Aarya,17,4/14/2006,134,5,11,Male,0,1,0,0,0,0,0,False,Gujarati,No,Yes,Yes,Yes,False,0,0,10/11/2023 12:03:15 PM
+9201,PSYC-134130,Arizmendi,Citlaly,18,1/5/2005,160,5,4,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/11/2023 12:05:03 PM
+9202,PSYC-132589,Kamau,Priscilla,100,3/6/2005,155,4,11,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/11/2023 3:02:35 PM
+9204,PSYC-134130,Lara,Giselle,18,12/15/2004,185,5,1,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,Yes,False,0,0,10/11/2023 3:03:14 PM
+9203,PSYC-134128,Edgar-Ajetunmobi,Margret,18,4/22/2005,260,5,9,Female,0,0,1,0,0,0,0,True,,,Yes,Yes,Yes,False,0,0,10/11/2023 3:04:59 PM
+9205,PSYC-132589,Orr,Beatriz,18,2/11/2005,145,5,2,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/12/2023 9:09:59 AM
+9206,PSYC-134128,Olaotan,Oladimeji,18,7/14/2005,250,6,1,Male,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/12/2023 9:31:33 AM
+9207,PSYC-132589,Frausto,Guadalupe,18,1/16/2005,165,5,3,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,10/12/2023 12:02:51 PM
+9208,PSYC-134128,Perez,Mariana,18,11/9/2004,160,5,3,Female,0,0,0,1,0,1,0,False,spanish,No,Yes,Yes,Yes,False,0,0,10/12/2023 12:06:27 PM
+9209,PSYC-134130,Wesley,Essence,22,7/17/2001,133,5,7,Female,0,0,1,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,10/12/2023 12:07:07 PM
+9210,PSYC-132589,Jensen,William,19,4/24/2004,146,5,9,Male,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/12/2023 3:07:10 PM
+9211,PSYC-134130,Ho,Vu Linh Nhi,19,9/10/2004,125,5,2,Female,0,1,0,0,0,0,0,False,Vietnamese,No,Yes,Yes,Yes,False,0,0,10/12/2023 3:08:50 PM
+9212,PSYC-132589,Kavattur,Eesha (Nyx),17,5/2/2005,130,5,1,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,No,False,0,0,10/13/2023 9:02:41 AM
+9213,PSYC-134128,Gonzalez,Roberto,19,9/6/2004,140,5,9,Male,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,10/13/2023 9:04:49 AM
+9214,PSYC-134130,Solorzano,Leslie,17,10/25/2005,125,5,1,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,10/13/2023 9:06:35 AM
+9215,PSYC-132589,Okoronkwo,Ozioma,18,5/12/2005,183,5,8,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,10/13/2023 11:54:28 AM
+9216,PSYC-134128,Burgess,Caroline,19,3/30/2004,128,5,2,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,10/13/2023 11:58:02 AM
+9217,PSYC-134130,Garcia,Raymond,18,10/13/2023,175,5,5,Male,1,0,0,1,0,0,0,False,Spanish,No,No,Yes,Yes,False,0,0,10/13/2023 12:02:47 PM
+9218,PSYC-134128,Gohl,Kinlie,20,8/11/2003,130,5,2,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,10/13/2023 3:01:23 PM
+9219,PSYC-132589,Conejo Lopez,Yoselin,19,3/6/2004,150,5,4,Female,0,0,0,1,0,1,0,False,spanish,No,No,Yes,Yes,False,0,0,10/13/2023 3:07:58 PM
+9220,PSYC-132589,Martinez-Mendez,Marissa,19,5/22/2004,143,5,5,Female,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,2/5/2024 9:05:40 AM
+9221,PSYC-134128,Rashaad,Zubair,19,6/24/2004,200,5,9,Male,0,1,0,0,0,0,0,False,Urdu,No,No,Yes,Yes,False,0,0,2/5/2024 9:10:35 AM
+9222,PSYC-134128,Hons,Josephine,34,7/26/1989,175,5,4,Female,0,0,0,0,0,1,0,True,,No,No,No,Yes,False,0,0,2/5/2024 12:09:11 PM
+9223,PSYC-132589,John,shenelle,19,7/1/2004,175,5,1,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,2/5/2024 2:56:54 PM
+1002138148,PSYC-134128,DeFanti,Abigail,21,4/15/2002,173,5,6,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,No,False,0,0,2/5/2024 3:02:23 PM
+9225,PSYC-134130,Hua,Tiffany,18,12/1/2005,115,5,2,Female,0,1,0,0,0,0,0,False,Vietnamese,No,Yes,Yes,Yes,False,0,0,2/5/2024 3:04:01 PM
+9224,PSYC-134128,DeFanti,Abigail,21,4/15/2002,173,5,6,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,No,False,0,0,2/5/2024 3:07:34 PM
+9226,PSYC-132589,Addo,Michael,19,8/3/2004,165,6,2,Male,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/6/2024 9:08:52 AM
+9227,PSYC-134128,Toro,Daniel,20,1/31/2004,180,5,6,Male,0,1,0,1,0,1,1,True,,No,No,Yes,Yes,False,0,0,2/6/2024 9:26:17 AM
+9228,PSYC-132589,Boswell,Yila,18,8/17/2005,120,5,3,Female,0,0,1,0,0,0,0,True,,No,No,No,No,False,0,0,2/6/2024 12:07:19 PM
+9229,PSYC-134130,Henry,Nathanael,19,3/11/2004,130,0,11,Male,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/6/2024 12:16:53 PM
+9230,PSYC-132589,Al-Zubi,Yussef ,18,2/12/2005,180,5,11,Male,0,0,0,0,0,1,0,True,,No,,Yes,Yes,False,0,0,2/7/2024 9:04:28 AM
+9231,PSYC-134128,Hill,Mia,19,3/21/2004,150,5,6,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2024 9:05:29 AM
+9232,PSYC-132589,Hall,Julia,19,8/11/2004,175,5,5,Female,0,0,0,0,0,1,0,True,,Yes,No,Yes,Yes,False,0,0,2/7/2024 12:07:29 PM
+9234,PSYC-134130,Nebe,Kimberly ,20,12/11/2003,224,6,0,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2024 12:08:16 PM
+9233,PSYC-134128,mccloud,madison,19,7/16/2004,250,5,6,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2024 12:11:01 PM
+9235,PSYC-132589,Nlambo Asemot,Kimberly,18,4/13/2005,185,5,4,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2024 3:01:32 PM
+9236,PSYC-134130,Lo,Allison,19,7/22/2004,180,5,4,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2024 3:02:23 PM
+9236,PSYC-134130,Lo,Allison,19,7/22/2004,180,5,4,Female,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/7/2024 3:04:08 PM
+9237,PSYC-134128,Ghali,Juneer,19,11/16/2004,150,5,3,Female,0,0,0,0,0,0,1,True,,No,No,Yes,Yes,False,0,0,2/8/2024 3:03:00 PM
+9238,PSYC-132589,Willis,Emily,18,2/11/2005,145,5,3,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,No,False,0,0,2/8/2024 3:04:35 PM
+9238,PSYC-132589,Willis,Emily,18,2/11/2005,145,5,3,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/8/2024 3:07:56 PM
+9239,PSYC-134130,Evans,Tabitha ,21,10/21/2003,220,5,7,Female,0,0,0,0,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/9/2024 8:58:11 AM
+9240,PSYC-132589,Chittet,Jude,19,12/21/2004,129,5,8,Male,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,2/9/2024 9:00:48 AM
+9241,PSYC-134128,Modather,Laila,19,6/27/2004,97,5,1,Female,0,0,1,0,0,0,1,True,,No,No,Yes,Yes,False,0,0,2/9/2024 9:15:25 AM
+9242,PSYC-132589,realzola,arlyn,18,6/17/2005,115,5,3,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/9/2024 12:02:25 PM
+9244,PSYC-134130,Johnson,Valerie,25,10/6/1998,335,5,10,Female,0,0,1,0,0,0,0,True,,No,No,No,No,False,0,0,2/9/2024 12:10:30 PM
+9243,PSYC-134128,Zaeem,Safwan,20,11/27/2003,131,5,8,Male,0,1,0,0,0,0,0,False,Bengali,No,No,Yes,Yes,False,0,0,2/9/2024 12:13:58 PM
+9245,PSYC-134128,Zarazua Rodriguez,Salvador,19,9/22/2004,177,5,5,Male,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,2/9/2024 3:02:55 PM
+9246,PSYC-132589,Okwubanego,Chiamaka,17,5/3/2006,120,5,8,Female,0,0,1,0,0,0,0,True,,No,No,No,No,False,0,0,2/9/2024 3:04:14 PM
+9247,PSYC-134128,Diaz,Tanya,19,12/21/2004,0,5,1,Female,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,No,False,0,0,3/18/2024 9:07:50 AM
+9248,PSYC-132589,Villasenor,Jacquelyn,19,10/9/2004,138,5,6,Female,0,0,0,1,0,1,0,True,,No,Yes,Yes,No,False,0,0,3/18/2024 9:09:45 AM
+9251,PSYC-132589,Vo,Brian,19,3/17/2005,105,5,2,Male,0,1,0,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,3/18/2024 12:02:27 PM
+9249,PSYC-134128,Ramirez,Itzel,17,12/14/2006,115,5,0,Female,0,0,0,1,0,1,0,False,Spanish,No,No,Yes,No,False,0,0,3/18/2024 12:04:49 PM
+9252,PSYC-132589,Wahidullah,Husna,18,8/11/2005,140,5,3,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/18/2024 3:02:38 PM
+9253,PSYC-134128,lawal,iman,19,2/11/2005,190,5,10,Female,0,0,1,0,0,0,0,False,Yoruba ,No,Yes,Yes,Yes,False,0,0,3/18/2024 3:04:48 PM
+9254,PSYC-132589,Mateo,Jaqueline,19,8/11/2004,140,5,3,Female,1,0,0,1,0,0,0,False,Spanish,No,Yes,Yes,No,False,0,0,3/19/2024 9:12:26 AM
+9255,PSYC-134128,Alarcon,Karen,22,11/6/2001,200,5,0,Female,0,0,0,1,0,0,1,False,Spanish,No,Yes,Yes,Yes,False,0,0,3/19/2024 9:13:10 AM
+9256,PSYC-132589,Khatri,Nistha,18,6/15/2005,105,5,6,Female,0,1,0,0,0,0,0,False,Nepali,No,No,Yes,No,False,0,0,3/19/2024 12:05:58 PM
+9257,PSYC-134128,Romero,Cindy,21,11/2/2002,124,5,2,Female,0,0,0,1,0,0,1,False,Spanish,No,No,Yes,Yes,False,0,0,3/19/2024 12:07:09 PM
+9258,PSYC-134130,Rojas,Jennifer,22,10/9/2001,147,5,3,Female,0,0,0,1,0,1,0,True,,No,No,No,No,False,0,0,3/19/2024 12:08:29 PM
+9259,PSYC-132589,Hernandez,Luis,23,11/28/2000,185,5,9,Male,0,0,0,1,0,0,1,True,,No,No,Yes,Yes,False,0,0,3/19/2024 3:08:00 PM
+9260,PSYC-132589,syed,mishael,18,6/30/2005,93,5,0,Female,0,1,0,0,0,0,0,True,,No,Yes,Yes,Yes,False,0,0,3/20/2024 8:59:15 AM
+9261,PSYC-134128,rodriguez,brittany,20,11/14/2003,170,5,3,Female,0,0,0,1,0,1,0,True,,No,No,Yes,No,False,0,0,3/20/2024 9:00:10 AM
+9262,PSYC-132589,diallo,fatoumata,19,1/20/2005,120,5,0,Female,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,3/20/2024 12:14:24 PM
+9263,PSYC-132589,Armstead,Caden ,19,10/30/2004,169,6,0,Male,0,0,1,0,0,0,0,True,,No,No,Yes,Yes,False,0,0,3/20/2024 3:04:30 PM
+9264,PSYC-134130,Fernandez,Jonas,18,7/21/2005,150,5,7,Male,0,0,0,1,0,0,1,False,Spanish,No,No,Yes,Yes,False,0,0,3/20/2024 3:08:56 PM
+9265,PSYC-132589,rodriguez,diego,20,7/17/2003,165,5,10,Male,0,0,0,1,0,1,0,True,,No,Yes,Yes,Yes,False,0,0,3/21/2024 12:02:13 PM
+9266,PSYC-132589,Escobar,Stephanie,17,5/10/2006,126,5,6,,0,0,0,1,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/22/2024 9:07:54 AM
+9267,PSYC-132589,Whitworth,Kaitlyn,18,7/12/2005,125,5,9,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/22/2024 12:01:30 PM
+9268,PSYC-134128,Jordan,Krista,18,5/13/2005,105,5,3,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/22/2024 12:02:34 PM
+9269,PSYC-132589,Jimenez Millan,Vega,18,10/27/2005,125,5,5,Female,0,0,0,1,0,1,0,False,Spanish,No,Yes,Yes,Yes,False,0,0,3/22/2024 3:09:37 PM
+9270,PSYC-134128,Lopez,Mia ,23,3/12/2001,250,5,10,Female,0,0,0,1,0,0,1,True,,No,Yes,Yes,Yes,False,0,0,3/22/2024 3:14:57 PM
+9271,PSYC-134128,Shamburger,Rehyse,17,6/4/2006,128,5,3,Female,0,0,0,0,0,1,0,True,,No,No,Yes,Yes,False,0,0,3/27/2024 3:00:08 PM
